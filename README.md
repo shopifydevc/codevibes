@@ -383,6 +383,12 @@ function calculateVibeScore(issues: Issue[]): number {
     - Header: API → CHANGELOG
     - Footer: Changelog (Resources), API Reference (Product), Jan 10 update badge.
 
+### [v1.0.2] - 2026-01-12
+🔒 **Security Hardening**: Expanded secret detection (AWS, Stripe, Google, etc.) & Critical severity for live keys.
+⚡ **Stability**: Automated async error & memory leak detection.
+📄 **Documentation**: Changelog updates & API ref alignments.
+⬆️ **UX**: Added auto-scroll to top on navigation.
+
 ---
 
 ## 🤝 Contributing
